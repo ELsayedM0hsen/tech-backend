@@ -1,3 +1,3 @@
-const allowedOrigins = ["https://techarbor-api.onrender.com"];
+const allowedOrigins = ["https://techarbor.onrender.com"];
 
 module.exports = allowedOrigins;
